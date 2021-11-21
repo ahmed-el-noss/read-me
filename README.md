@@ -3,9 +3,9 @@
 ## Table of contents
 
 * [Page Features](#instructions)
-* * [Project Description](#Project Description)
+* [Project_Description](#Project_Description)
 
-## Page Features:
+## Page Features
 
 1. Clean, professional, documented and scalable code.
 2. The structure of the database is practically designed to improve response speed and site performance.
@@ -15,8 +15,8 @@
 - JavaScript and css were used to convert the project from a static project to an interactive project.
 
 
+## Project_Description
 
-## Page Features:
 - There are at least 4 sections that have been added to the page and more can be added.
 - When you add a section to the page, a link is added to it in the menu dynamically.
 - When you click on an item from the navigation menu, the link goes to the appropriate section.
