@@ -3,6 +3,8 @@
 ## Table of contents
 
 * [Page Features](#instructions)
+* [Project Description](Project Description)
+
 ## Page Features:
 
 1. Clean, professional, documented and scalable code.
@@ -10,8 +12,11 @@
 
 - The landing page project was implemented using some of the following styles:
 -  HTML, CSS and JavaScript.
-
 - JavaScript and css were used to convert the project from a static project to an interactive project.
+
+
+
+## Page Features:
 - There are at least 4 sections that have been added to the page and more can be added.
 - When you add a section to the page, a link is added to it in the menu dynamically.
 - When you click on an item from the navigation menu, the link goes to the appropriate section.
