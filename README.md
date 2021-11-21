@@ -2,8 +2,7 @@
 
 ## Table of contents
 
-* [page features:] (#features page:)
-
+* [Instructions](#instructions)
 ## Page Features:
 
 1. Clean, professional, documented and scalable code.
