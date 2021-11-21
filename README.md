@@ -3,7 +3,7 @@
 ## Table of contents
 
 * [Page Features](#instructions)
-* * [Project Description](Project Description)
+* [Project Description](#Project Description)
 
 ## Page Features:
 
