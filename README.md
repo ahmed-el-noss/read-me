@@ -9,10 +9,9 @@
 
 1. Clean, professional, documented and scalable code.
 2. The structure of the database is practically designed to improve response speed and site performance.
-
-- The landing page project was implemented using some of the following styles:
+3. The landing page project was implemented using some of the following styles:
 -  HTML, CSS and JavaScript.
-- JavaScript and css were used to convert the project from a static project to an interactive project.
+4. JavaScript and css were used to convert the project from a static project to an interactive project.
 
 
 ## Project_Description
